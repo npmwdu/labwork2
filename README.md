@@ -1,1 +1,1 @@
-# labwork2
+# Transfer parameters to a function
